@@ -1,7 +1,7 @@
 # 🤖 AI Chat App (iOS)
 
 A modern AI-powered chat application built using **SwiftUI** with advanced features like voice input, text-to-speech, onboarding UI, and dynamic theming.
-
+![alt text](https://gemini.google.com/share/449dc7efe0e5)
 ---
 
 ## 🚀 Features
